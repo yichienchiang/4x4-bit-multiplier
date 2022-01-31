@@ -26,8 +26,8 @@ The project is for building a 4x4 bit multiplier and completing the schematic an
 
 ![4x4 bit mutiplier layout](https://github.com/yichienchiang/4x4-bit-multiplier/blob/e5857cfbdff1214a168073b123e764642fc69753/layout.PNG)
 
-#### 4 Simulation
+#### 4. Simulation
 ![Simulation](https://github.com/yichienchiang/4x4-bit-multiplier/blob/e5857cfbdff1214a168073b123e764642fc69753/test.PNG)
 
-#### 4 Test bench table
+#### 5. Test bench table
 ![table](https://github.com/yichienchiang/4x4-bit-multiplier/blob/429ef22a394bbde7b68197e0f4160ff04ab397e5/123.PNG)
