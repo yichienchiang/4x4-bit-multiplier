@@ -17,3 +17,14 @@ The project is for building a 4x4 bit multiplier and completing the schematic an
 #### 2.2  4 bits full adder layout
 
 ![4 bits full adder layout](https://github.com/yichienchiang/4x4-bit-multiplier/blob/46c924045640fca186353208d163074b5854d7b9/fulladder.PNG)
+
+#### 3.1  4x4 bit mutiplier schematic
+
+![4x4 bit mutiplier](https://github.com/yichienchiang/4x4-bit-multiplier/blob/e5857cfbdff1214a168073b123e764642fc69753/2.PNG)
+
+#### 3.2 4x4 bit mutiplier layout
+
+![4x4 bit mutiplier layout](https://github.com/yichienchiang/4x4-bit-multiplier/blob/e5857cfbdff1214a168073b123e764642fc69753/layout.PNG)
+
+#### 4 Simulation
+![Simulation](https://github.com/yichienchiang/4x4-bit-multiplier/blob/e5857cfbdff1214a168073b123e764642fc69753/test.PNG)
